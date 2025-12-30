@@ -2,15 +2,11 @@
 
 A hands-on experimentation project focused on exploring and understanding how different Large Language Models (LLMs) work within the LangChain framework. This repository serves as a learning playground for testing model behavior, prompt flow, and basic LLM integration using Python.
 
-📌 Project Information
+**📌 Project Information**
 
-**Version: 1.0.0**
+**Version:** 1.0.0
 
-Author: Sameer
-
-Repository: GitHub Repo (to be added)
-
-License: MIT License
+**Author:** Sameer
 
 **🌟 Features**
 
@@ -25,7 +21,9 @@ License: MIT License
 ✔️ 📂 Clean Modular Files: Simple and readable Python scripts for learning clarity.
 
 **🏗️ Project Structure**
+
 Langchain_Models/
+
 ├─ models/             # LLM and chat model experiments
 ├─ chains/             # Simple LangChain chains
 ├─ utils/              # Helper functions
@@ -47,35 +45,32 @@ OpenAI API Key
 Virtual environment (recommended)
 
 **🛠️ Setup Instructions**
+**1. Clone the repository:**
 
-1. Clone the repository:
-
-git clone https://github.com/your-username/Langchain_Models.git
-cd Langchain_Models
-
-
-2. Create and activate virtual environment:
-
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+    git clone https://github.com/your-username/Langchain_Models.git
+    cd Langchain_Models
 
 
-3. Install dependencies:
+**2. Create and activate virtual environment:**
 
-pip install -r requirements.txt
-
-
-4. Configure environment variables:
-
-Create a .env file and add:
-
-OPENAI_API_KEY="your_openai_api_key_here"
+    python -m venv venv
+    source venv/bin/activate   # macOS/Linux
+    venv\Scripts\activate      # Windows
 
 
-5. Run model experiments:
+**3. Install dependencies:**
 
-python main.py
+    pip install -r requirements.txt
+
+
+**4. Configure environment variables:**
+
+    Create a .env file and add:
+    OPENAI_API_KEY="your_openai_api_key_here"
+
+**5. Run model experiments:**
+
+    python main.py
 
 **✅ Testing & Debugging**
 Test Type	Description
