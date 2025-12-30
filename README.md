@@ -1,42 +1,51 @@
-**🤖 LangChain-Models-Playground**
+## 🤖 LangChain-Models-Playground
 
 A hands-on experimentation project focused on exploring and understanding how different Large Language Models (LLMs) work within the LangChain framework. This repository serves as a learning playground for testing model behavior, prompt flow, and basic LLM integration using Python.
 
-**📌 Project Information**
+## 📌 Project Information
 
-**Version:** 1.0.0
+- **Version:** 1.0.0
+- **Author:** Sameer
+- **Repository:** [GitHub Repo]([[https://github.com/Sameer051022/RasaGPT-AI-Powered-Customer-Support-Chatbot/](https://github.com/Sameer051022/Generative_AI_Langchain_Models)])
+- **License:** MIT License
+---
 
-**Author:** Sameer
+## 🌟 Features
 
-**🌟 Features**
+✔️ 🧠 **LLM Experimentation:** Test and compare different language models using LangChain.
 
-✔️ 🧠 LLM Experimentation: Test and compare different language models using LangChain.
+✔️ 🔗 **LangChain Integration:** Learn how LangChain connects models, prompts, and chains.
 
-✔️ 🔗 LangChain Integration: Learn how LangChain connects models, prompts, and chains.
+✔️ ⚙️ **Environment-Based Setup:** Secure API handling using environment variables.
 
-✔️ ⚙️ Environment-Based Setup: Secure API handling using environment variables.
+✔️ 🧪 **Model Behavior Testing:** Observe response patterns, creativity, and reasoning.
 
-✔️ 🧪 Model Behavior Testing: Observe response patterns, creativity, and reasoning.
+✔️ 📂 **Clean Modular Files:** Simple and readable Python scripts for learning clarity.
 
-✔️ 📂 Clean Modular Files: Simple and readable Python scripts for learning clarity.
+---
 
-**🏗️ Project Structure**
+## 🏗️ Project Structure
 
-Langchain_Models/
+```
+    Langchain_Models/
+    ├─ models/             # LLM and chat model experiments
+    ├─ chains/             # Simple LangChain chains
+    ├─ utils/              # Helper functions
+    ├─ .env.example        # Environment variable template
+    ├─ requirements.txt    # Python dependencies
+    └─ README.md           # Project documentation
+```
 
-├─ models/             # LLM and chat model experiments
-├─ chains/             # Simple LangChain chains
-├─ utils/              # Helper functions
-├─ .env.example        # Environment variable template
-├─ requirements.txt    # Python dependencies
-└─ README.md           # Project documentation
+---
 
-**⚙️ Technologies Used**
-Backend	AI / LLM Tools	Frameworks
-Python 🐍	OpenAI GPT	LangChain 🔗
-dotenv	Chat Models	
-🚀 Installation Guide
-🔧 Prerequisites
+## ⚙️ Technologies Used
+| **Backend** | **LLM Framework**   | **AI Tools**     |
+| ------------| ------------------- | ---------------- |
+| Python 🐍   | LangChain 🦜         | OpenAI GPT       |
+| dotenv      | Virtual Environment | API-based Models |
+
+## 🚀 Installation Guide
+**🔧 Prerequisites**
 
 Python 3.8+
 
@@ -44,7 +53,7 @@ OpenAI API Key
 
 Virtual environment (recommended)
 
-**🛠️ Setup Instructions**
+## 🛠️ Setup Instructions
 **1. Clone the repository:**
 
     git clone https://github.com/your-username/Langchain_Models.git
@@ -72,20 +81,32 @@ Virtual environment (recommended)
 
     python main.py
 
-**✅ Testing & Debugging**
-Test Type	Description
-🧪 Script Testing	Run individual Python files
-🐞 Debugging	Print logs and console outputs
-🔥 Future Enhancements
+---
+
+## ✅ Testing & Debugging
+| Test Type	        | Description                    |
+| ----------------  | ------------------------------ | 
+| 🧪 Script Testing | Run individual Python files    |
+| 🐞 Debugging	    | Print logs and console outputs |
+
+---
+
+## 🔥 Future Enhancements
 
 🚀 Add support for multiple LLM providers.
+
 📊 Compare model outputs with evaluation metrics.
+
 🔄 Add structured chains and memory support.
 
-**🤝 Contribution Guidelines**
+## 🤝 Contribution Guidelines
 
 Contributions are welcome. Fork the repository, create a feature branch, and submit a pull request.
 
-**📜 License**
+---
+
+## 📜 License
 
 📚 MIT License – Open-source and free to modify.
+
+---
