@@ -6,7 +6,7 @@ A hands-on experimentation project focused on exploring and understanding how di
 
 - **Version:** 1.0.0
 - **Author:** Sameer
-- **Repository:** [GitHub Repo]([[https://github.com/Sameer051022/RasaGPT-AI-Powered-Customer-Support-Chatbot/](https://github.com/Sameer051022/Generative_AI_Langchain_Models)])
+- **Repository:** [GitHub Repo]([[https://github.com/Sameer051022/Generative_AI_Langchain_Models/](https://github.com/Sameer051022/Generative_AI_Langchain_Models/)])
 - **License:** MIT License
 
 ---
