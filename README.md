@@ -8,6 +8,7 @@ A hands-on experimentation project focused on exploring and understanding how di
 - **Author:** Sameer
 - **Repository:** [GitHub Repo]([[https://github.com/Sameer051022/RasaGPT-AI-Powered-Customer-Support-Chatbot/](https://github.com/Sameer051022/Generative_AI_Langchain_Models)])
 - **License:** MIT License
+
 ---
 
 ## 🌟 Features
@@ -43,6 +44,8 @@ A hands-on experimentation project focused on exploring and understanding how di
 | ------------| ------------------- | ---------------- |
 | Python 🐍   | LangChain 🦜         | OpenAI GPT       |
 | dotenv      | Virtual Environment | API-based Models |
+
+---
 
 ## 🚀 Installation Guide
 **🔧 Prerequisites**
